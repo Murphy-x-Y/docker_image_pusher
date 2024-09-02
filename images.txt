@@ -1,4 +1,4 @@
 portainer/portainer-ce
 whyour/qinglong
 haishanh/yacd
-ghcr.io/home-assistant
+ghcr.io/home-assistant/home-assistant:stable
