@@ -1,3 +1,4 @@
 portainer/portainer-ce
 whyour/qinglong
 haishanh/yacd
+home-assistant/home-assistant
